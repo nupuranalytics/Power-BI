@@ -1,6 +1,10 @@
 # Demand Planning-Dashboard
 
-A Demand Planning Dashboard in Power BI provides a clear, visual overview of forecasted demand, actual sales, inventory levels, and key performance indicators (KPIs). It's a valuable tool for supply chain and planning teams to make data-driven decisions, reduce stockouts or overstock situations, and improve forecasting accuracy. By centralizing insights in a dynamic, interactive dashboard, it enhances collaboration across teams and helps align supply with customer demand efficiently.
+A Demand Planning Dashboard in Power BI provides a clear, visual overview of forecasted demand, actual sales, inventory levels, and key performance indicators (KPIs). It's a valuable tool for supply chain and planning teams to make data-driven decisions, reduce stockouts or overstock situations, and improve forecasting accuracy. Centralizing insights in a dynamic, interactive dashboard enhances collaboration across teams and helps efficiently align supply with customer demand.
+
+# Overview
+
+This dashboard gives complete insights into the demand forecasting by comparing historical and actual data, year-on-year performance, year-to-date performance, proportion of current year value till now, year to go, etc.
 
 # Snapshot of Dashboard 
 Scorecard 
