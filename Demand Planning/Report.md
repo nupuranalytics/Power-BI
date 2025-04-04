@@ -18,16 +18,30 @@ Scorecard
 
  ![Image](https://github.com/user-attachments/assets/c92a5c34-52a6-4f32-9ea7-a3f8161f5617)
 
+ Month on Month Analysis
+
+ ![Image](https://github.com/user-attachments/assets/f966f2b3-755e-411a-8954-6fd1cc2f294a)
+
  Weekly Volume Analysis
  
  ![Image](https://github.com/user-attachments/assets/4836f0fd-5acd-4b66-b5f9-58373b40a35f)
 
+ Week on Week Analysis
+
+ ![Image](https://github.com/user-attachments/assets/3d79df74-0b04-4322-a2f7-08b08417791d)
+
  # Other Insights after Drillthrough
+
+ Month Analysis
  
  ![Image](https://github.com/user-attachments/assets/9eba6eaa-0dfe-45a1-8be7-cb34e5847e86)
 
  ![Image](https://github.com/user-attachments/assets/96d52adf-fa68-496a-89da-3834701baadd)
 
+
+ 
+ 
+
  
 
 
@@ -38,8 +52,6 @@ Scorecard
  
 
 
-4.1) 69.06 % customers have travel type 'Business'.
 
-4.2) 30.94 % customers have travel type 'Personal'.
 
-        thus, more customers have travel type 'Business'.
+
